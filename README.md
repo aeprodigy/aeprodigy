@@ -53,9 +53,9 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mike-mambwe-06518a1b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href=""><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mikeapple056@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/mike-mambwe-06518a1b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mike%20Mambwe-blue?style=flat-square&logo=linkedin"></a>
+<a href=""><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aeprodigy__-blue?style=flat-square&logo=instagram"></a>
+<a href="mikeapple056@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mikeapple056@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [aeprodigy](https://github.com/aeprodigy)
