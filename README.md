@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Computer Science and Mathematics at Zambia Information Technology College.
 - 💼 &nbsp; Working as a UI/UX designer at Stephy Foundations.
 - 🌱 &nbsp; Learning more about Cloud Architecture,Full-stack Development and Mobile Application development.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as a hobby/side hustle.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
