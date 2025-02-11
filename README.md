@@ -41,6 +41,8 @@
 
 <br/>
 
+![Visitor Count](https://hits.sh/github.com/aeprodigy.svg?style=flat-square&label=Visitors&color=007bff)
+
 <a href="https://github.com/aeprodigy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aeprodigy&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeprodigy&theme=buefy&layout=compact" />
@@ -57,8 +59,3 @@
 </p>
 
 ⭐️ From [aeprodigy](https://github.com/aeprodigy)
-
-<!---
-aeprodigy/aeprodigy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
