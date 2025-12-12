@@ -37,3 +37,43 @@ Passionate about modern development workflows, problem-solving, and continuous l
 ![Firebase](https://img.shields.io/badge/Firebase-333?style=flat&logo=firebase)
 
 ### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-333?style=flat&logo=visual-studio-code)
+
+---
+
+## Skills Summary
+
+| Category            | Skills |
+|--------------------|--------|
+| **Programming Languages** | Python, Java, C++, Dart, JavaScript, Kotlin, PHP |
+| **Mobile Development** | Flutter, Android (Kotlin/Java), Jetpack Compose |
+| **Web Development** | HTML5, CSS3, React.js, Node.js |
+| **Backend & APIs** | REST APIs, Express.js, Laravel, AppSync (GraphQL) |
+| **Databases** | Firebase Firestore, MySQL, PostgreSQL, Hive |
+| **Cloud & DevOps** | AWS Amplify, Firebase, Supabase |
+| **State Management** | Provider, Riverpod |
+| **Tools & Workflow** | Git, GitHub, VS Code, Android Studio |
+| **Other Skills** | UI Implementation from Figma, Agile Methodologies |
+
+---
+
+## GitHub Stats
+
+<a href="https://github.com/aeprodigy">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aeprodigy&theme=buefy&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeprodigy&theme=buefy&layout=compact" />
+</a>
+
+---
+
+## Visitor Count
+![Visitor Count](https://hits.sh/github.com/aeprodigy.svg?style=flat-square&label=Visitors&color=007bff)
+
+---
+
+## Connect With Me
+
+- **LinkedIn:** [Mike Mambwe](https://www.linkedin.com/in/mike-mambwe-06518a1b2/)  
+- **Email:** mikeapple056@gmail.com
