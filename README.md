@@ -59,14 +59,6 @@ Passionate about modern development workflows, problem-solving, and continuous l
 
 ---
 
-## GitHub Stats
-
-<a href="https://github.com/aeprodigy">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aeprodigy&theme=buefy&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeprodigy&theme=buefy&layout=compact" />
-</a>
-
----
 
 ## Visitor Count
 ![Visitor Count](https://hits.sh/github.com/aeprodigy.svg?style=flat-square&label=Visitors&color=007bff)
