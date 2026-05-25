@@ -7,8 +7,8 @@ I build efficient, scalable applications across mobile, web, and cloud. Experien
 
 ## Core Technologies
 
-**Programming:** Python, Java, C++, Dart, JavaScript, Kotlin, PHP  
-**Web & Backend:** HTML5, CSS3, React.js, Node.js, Express.js, Laravel, GraphQL  
+**Programming:** Python, Java, C++, Dart, JavaScript, Kotlin, PHP, C#,  
+**Web & Backend:** HTML5, CSS3, React.js, Node.js, Express.js, Laravel, GraphQL, ASP.Net
 **Mobile Development:** Flutter, Android (Kotlin/Java), Jetpack Compose  
 **Databases:** Firebase, MySQL, PostgreSQL, Hive  
 **Cloud & DevOps:** AWS Amplify, Firebase, Supabase  
